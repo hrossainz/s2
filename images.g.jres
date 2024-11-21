@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAADu7gAAAAAA4AAAAAAAAADgAGZmZmYGAOAAZmZmZgYAAO5mZmZmBgAAAGZmZmYGAAAAZmZmZgYAAABmZmZmBgAAAGZmZmYGAAAAZmZmZgYAAABmZmZmBgAAAGZmZmYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "gasolina"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
